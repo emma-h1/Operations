@@ -12,3 +12,4 @@ print("b**c = ", b**c)
 print("b * = c = ", b * = c)
 
 #do back of chapter 1 exercises
+#commit to git
